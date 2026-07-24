@@ -4,5 +4,11 @@
  },
  "OpenPuck-0.9.31-mdk1-standard.uf2": {
   "panelUpdate": true
+ },
+ "OpenPuck-0.9.31-mdk2-factory-reset.uf2": {
+  "panelUpdate": true
+ },
+ "OpenPuck-0.9.31-mdk2-standard.uf2": {
+  "panelUpdate": true
  }
 }
